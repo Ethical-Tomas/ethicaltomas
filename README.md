@@ -1,6 +1,6 @@
 # Hello World 👋, 
 
-My name is Oladejo Anuoluwatomiwa a.k.a EthicalTOMAS, I am a student of Obafemi Awolowo University.
+My name is Oladejo Anuoluwatomiwa a.k.a EthicalTOMAS, I am a student of Obafemi Awolowo University, studying computer science with mathematics.
 I have a huge interest in cybersecurity and programming, i am currently learning Linux Basics and Python. I am also interested in learning languages like
 go, C++, Q#, ...
 
